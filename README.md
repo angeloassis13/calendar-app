@@ -14,3 +14,17 @@ npm start
 
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+
+## Next steps
+
+The app is already functional, but it would be better with some improvements, like:
+
+- New view for prices configuration
+- Structure and organize the code
+- Create components for each part of view
+- Create services to handle requests
+- Create an util service for common operations (like date formatting and conversion)
+- Improve error handling
+- Add validations (e.g: Start date cannot be greater than end date)
+- Add loading component
+- Add unit tests
