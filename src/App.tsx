@@ -103,7 +103,7 @@ function App() {
             }}
             pageSizeOptions={[10, 50]}
           />
-          <Alert severity="info">Total (R$): {result.result}</Alert>
+          <Alert severity="info">Total (R$): {result.result.toFixed(2)}</Alert>
         </Grid>
       }
     </Grid>
