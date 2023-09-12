@@ -28,3 +28,4 @@ The app is already functional, but it would be better with some improvements, li
 - Add validations (e.g: Start date cannot be greater than end date)
 - Add loading component
 - Add unit tests
+- Create login page
